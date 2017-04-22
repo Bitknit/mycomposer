@@ -1,14 +1,14 @@
 {
-  "mycompany": {
-    "title": "[DISPLAY_NAME]",
-    "website": "[WEBSITE_URL]",
-    "logo": "[LOGO_URL]",
+  "Bitknit": {
+    "title": "",
+    "website": "https://github.com/Bitknit",
+    "logo": "https://avatars1.githubusercontent.com/u/25876458?v=3",
     "visualizations": {
 
 
       "list": {
           "license": "MIT",
-          "website": "[INFO_URL]",
+          "website": "https://github.com/Bitknit",
           "versions": {
             "1.0.0": {
               "simple": {
